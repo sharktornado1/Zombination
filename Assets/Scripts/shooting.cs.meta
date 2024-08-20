@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 71f441db0ba1bca458947c3b02728482
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - reloadingtext: {instanceID: 0}
+  - tr: {fileID: 1829266941823706414, guid: f14fad5b6e5e1b04e9c151fefcec2aa6, type: 3}
+  - gunicon: {instanceID: 0}
+  - pistolicon: {instanceID: 0}
+  - player: {instanceID: 0}
+  - pistol: {instanceID: 0}
+  - uzi: {instanceID: 0}
+  - ak: {instanceID: 0}
+  - Firepoint: {instanceID: 0}
+  - joystick: {instanceID: 0}
+  - joyButton: {instanceID: 0}
+  - muzzlepoint: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
